@@ -1,5 +1,5 @@
-# community
-Issue Tracker and discussion related to Ah_Roon's Paradise.
+# Issue Tracker
+Issue Tracker related to Ah_Roon's Paradise.
 
 # Code of Conduct
 * Be nice to other person! Any toxic & rude behaviors are not tolerated.
