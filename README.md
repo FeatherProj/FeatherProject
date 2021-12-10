@@ -1,5 +1,5 @@
-# The Feather Project - Issues and Suggestions Tracking Board
+# The Feather Project - Issue Tracker
 This repository is to track all developments of The Feather Project such as known bugs and suggestions. This repository also acts as roadmap. Report and bugs and suggestions in the issue tracker and we will look into it.
 
 # Code of Conduct
-See [here](https://github.com/StarlightParadise/Issue-Tracker/blob/master/CODE_OF_CONDUCT.md).
+See [here](https://github.com/TheLastChain/Issue-Tracker/blob/master/CODE_OF_CONDUCT.md).
